@@ -1,0 +1,5 @@
+Accident_ID,Accident_Severity,Time_of_Accident,Weather_Conditions,Road_Surface,Lighting,Vehicle_Type,Speed,Driver_Age,Vehicles_Involved,Alcohol_Involvement,Road_Type,Intersection
+1,3,15,2,1,1,1,55,34,2,0,1,1
+2,2,23,1,2,2,2,70,28,1,1,2,0
+3,5,8,3,1,1,3,40,47,3,0,1,1
+4,7,5,3,5,1,4,30,43,3,1,1,0
